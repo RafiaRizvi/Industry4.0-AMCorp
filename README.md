@@ -17,5 +17,8 @@ A strategic Industry 4.0 readiness assessment and implementation roadmap develop
 - Consulting report (Word)
 - Executive presentation (PowerPoint)
 
+- ## Full Presentation
+[View full presentation with site photos (Google Drive)](paste your link here)
+
 ## Context
 Academic consulting project | LUMS MS Technology Management & Entrepreneurship | 2025-26
