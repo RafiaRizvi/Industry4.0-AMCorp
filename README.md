@@ -18,7 +18,7 @@ A strategic Industry 4.0 readiness assessment and implementation roadmap develop
 - Executive presentation (PowerPoint)
 
 - ## Full Presentation
-[View full presentation with site photos (Google Drive)](paste your link here)
+[View full presentation with site photos (Google Drive)]((https://drive.google.com/file/d/173j4y_XmcsEdP4k0o_q79ccA7hTtsYJa/view?usp=sharing))
 
 ## Context
 Academic consulting project | LUMS MS Technology Management & Entrepreneurship | 2025-26
